@@ -178,6 +178,17 @@ button {
   margin-bottom: 1rem;
 }
 
+.services-subtitle {
+  font-size: 2rem;
+  color: var(--primary);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}
+
 .services-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
